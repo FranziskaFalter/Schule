@@ -13,7 +13,7 @@ namespace ExperienceWithGit
             Console.WriteLine("John Doe,");
             Console.WriteLine("Jane Doe,");
             Console.WriteLine("Franzi");
-            Console.WriteLine("Andi");
+            Console.WriteLine("Andi Klaus");
             Console.ReadLine();
         }
     }
