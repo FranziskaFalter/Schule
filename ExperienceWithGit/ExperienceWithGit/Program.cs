@@ -14,6 +14,8 @@ namespace ExperienceWithGit
             Console.WriteLine("Jane Doe,");
             Console.WriteLine("Franzi");
 
+            Console.WriteLine("Klaus Dieter ");
+
             Console.ReadLine();
         }
     }
